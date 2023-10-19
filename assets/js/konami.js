@@ -12,7 +12,7 @@ function activate() {
 	);
 	snd.play();
 	setTimeout(function () {
-		window.location.href = "secret/index.html";
+		window.location.href = "secret/";
 	}, 700);
 }
 
